@@ -1,5 +1,5 @@
 ### Hi there 👋
-Je suis actuellement en formation pour devenir Développeur web/web mobile full stack
+Je suis actuellement en formation pour devenir Développeur web/web mobile
 
 <!--
 **JonatFu/JonatFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
