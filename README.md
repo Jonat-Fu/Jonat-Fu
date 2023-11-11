@@ -1,6 +1,7 @@
 ### Hi there 👋
 Salut, j'ai fini ma formation de Développeur web/web mobile et je compte pas en rester là.
 J'ai pour objectif de poursuivre mes études en contrat d'alternance en tant que Concepteur Développeur d'Application.
+Je continue à renforcer mes compétences acquise lors de ma formation et je navigue à la découverte d'autres technologie.
 
 <!--
 **JonatFu/JonatFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
