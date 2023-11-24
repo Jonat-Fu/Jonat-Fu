@@ -1,5 +1,5 @@
 ### Hi there 👋
-Salut, j'ai fini ma formation de Développeur web/web mobile (obtention du titre professionel de Développeur web/web mobile RNCP de niveau 5) et je compte pas en rester là.
+Salut, j'ai fini ma formation de Développeur web/web mobile (obtention du titre professionnel de Développeur web/web mobile RNCP de niveau 5) et je compte pas en rester là.
 J'ai pour objectif de poursuivre mes études en contrat d'alternance en tant que Concepteur Développeur d'Application.
 Je continue à renforcer mes compétences acquise lors de ma formation et je navigue à la découverte d'autres technologie.
 
