@@ -1,6 +1,15 @@
 ### Hi there 👋
-Salut, j'ai fini ma formation de Développeur web/web mobile (obtention du titre professionnel de Développeur web/web mobile RNCP de niveau 5 équivalent bac+2) et je compte pas en rester là.
-Je continue à renforcer mes compétences acquise lors de ma formation et je navigue à la découverte d'autres technologie.
+Je bosse sur mon PC.
+
+Je code tout moi-même, From scratch.
+
+Je fais avec ce que j’ai.
+Je cherche quand je ne sais pas.
+Je bidouille quand il faut.
+Je recommence quand j’ai tout cassé.
+
+Juste un PC, du café et une tendance assez prononcée à vouloir comprendre comment les trucs fonctionnent.
+
 J'ai pour le moment réalisé un projet de site web pour une entreprise : https://www.zocobienetre.fr/
 
 <!--
